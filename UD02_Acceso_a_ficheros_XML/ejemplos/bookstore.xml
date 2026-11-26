@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <libro categoria="programacion">
+        <titulo>Java paso a paso</titulo>
+        <autor>Ana Ruiz</autor>
+        <precio>24.5</precio>
+    </libro>
+    <libro categoria="historia">
+        <titulo>Historias del tiempo</titulo>
+        <autor>Luis Soler</autor>
+        <precio>18.0</precio>
+    </libro>
+    <libro categoria="programacion">
+        <titulo>XML desde cero</titulo>
+        <autor>Eva Martí</autor>
+        <precio>21.0</precio>
+    </libro>
+</bookstore>
